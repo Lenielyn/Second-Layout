@@ -1,0 +1,40 @@
+body *{
+    text-align: center;
+    margin: 10vh;
+    padding: 50%;
+    color: green;
+}
+
+header{
+    padding: 70vh;
+    height: auto;
+    width: auto;
+    margin-top: 20vh;
+
+}
+
+nav{
+    padding: 60vh;
+    height: auto;
+    width: auto;
+    margin-top: 10vh;
+}
+Content A {
+    padding: 80vh;
+    float: right;
+    height: auto;
+    margin-left: auto;
+}
+
+Content B {
+    padding: 60vh;
+    float: left;
+    height: auto;
+    margin-right: auto;
+
+}
+footer{
+    padding: 90vh;
+    margin-bottom: auto;
+
+}
